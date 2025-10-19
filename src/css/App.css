@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    background-color: white;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    /* overflow-x: hidden; */
+}
+
+::-webkit-scrollbar {
+    width: 0.6vw;
+}
+::-webkit-scrollbar-thumb{
+    background-color: white;
+    border-radius: 8px;
+}
+::-webkit-scrollbar-track {
+    background-color: black;
+}
+
+.linkstyle {
+    text-decoration: None;
+    transition: 300ms ease-in-out;
+}
+
+button {
+    transition: 300ms ease-in-out;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+.pop {
+    transition: 300ms ease-in-out;
+}
+
+.pop:hover {
+    opacity: 0.9;
+    transform: scale(1.1);
+}

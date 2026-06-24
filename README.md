@@ -20,7 +20,7 @@ Click here to download!
 3. Cart
 4. Checkout
 
-# Campus Book Store
+# Campus Store
 
 # UI
 * User
